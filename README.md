@@ -14,7 +14,7 @@ Crises, in the scale of the one we are facing right now, are inarguably difficul
 
 In this document you will find a set of personal thoughts and comments for the new draft of the Cohesion Alliance Declaration after carefully reading both the current and the proposed draft of the new version . The document is structured as follows: In Section 2 thoughts and comments are being analyzed. In Section 3 we sum up our thoughts, as a conclusion. In Section 4 there are information about the license of this document, allowing everyone to reuse and remix it per the terms of an open Creative Common license. Finally, in Section 5 we present the references used in this document.
 
-<span style="text-decoration: underline">DISCLAIMER</span>: Opinions are my own and do not reflect neither the Aristotle University of Thessaloniki, where I have the honor to serve as a researcher, nor my company, Social Mind.
+DISCLAIMER: Opinions are my own and do not reflect neither the Aristotle University of Thessaloniki, where I have the honor to serve as a researcher, nor my company, Social Mind.
 
 You can find the full version of the document in markdown format [here](https://github.com/akritiko/cohesion-alliance-declaration/blob/master/CohesionAlliance%20Declaration%20Draft%20(2020)%20-%20Thoughts%20%26%20Suggestions.md) along with .odt, .pdf and .txt versions in this repository.
 
