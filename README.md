@@ -14,17 +14,16 @@ In this document you will find a set of personal thoughts and comments for the n
 
 ++DISCLAIMER++: Opinions are my own and do not reflect neither the Aristotle University of Thessaloniki, where I have the honor to serve as a researcher, nor my company, Social Mind.
 
-You can find the full version of the document in markdown format [here](https://github.com/akritiko/cohesion-alliance-declaration/blob/master/CohesionAlliance%20Declaration%20Draft%20(2020)%20-%20Thoughts%20%26%20Suggestions.md){:target="_blank"} along with .odt, .pdf and .txt versions in this repository.
+You can find the full version of the document in markdown format [here](https://github.com/akritiko/cohesion-alliance-declaration/blob/master/CohesionAlliance%20Declaration%20Draft%20(2020)%20-%20Thoughts%20%26%20Suggestions.md) along with .odt, .pdf and .txt versions in this repository.
 
-[Show your support, sign the declaration](http://cohesionalliance.eu){:target="_blank"}
-
+[Show your support, sign the declaration](http://cohesionalliance.eu)
 ## Information about the Cohesion Alliance Declaration
 
 ### What is Cohesion Alliance?
 
 Economic, social and territorial cohesion is at the heart of the European project. And cohesion policy represents a huge investment, involving all EU regions, together with thousands of stakeholders and beneficiaries, to deliver a shared growth strategy.
 
-[![What is Cohesion Alliance?](https://img.youtube.com/vi/NrFH9e1zBu4/0.jpg)](https://www.youtube.com/watch?v=NrFH9e1zBu4){:target="_blank"}
+[![What is Cohesion Alliance?](https://img.youtube.com/vi/NrFH9e1zBu4/0.jpg)](https://www.youtube.com/watch?v=NrFH9e1zBu4)
 
 This is a policy which has worked in the past, including through the crisis from which the EU is now emerging.
 
@@ -36,14 +35,14 @@ The Alliance has been created through cooperation between the leading territoria
 
 Currently worth one third of the EU budget, the EU's cohesion policy reduces regional disparities, creates jobs, opens new business opportunities and addresses major global issues such as climate change and migration.
 
-[![Cohesion policy = European integration = CohesionAlliance](https://img.youtube.com/vi/sjHb_HjEQ1k/0.jpg)](https://www.youtube.com/watch?v=sjHb_HjEQ1k){:target="_blank"}
+[![Cohesion policy = European integration = CohesionAlliance](https://img.youtube.com/vi/sjHb_HjEQ1k/0.jpg)](https://www.youtube.com/watch?v=sjHb_HjEQ1k)
 
 The #CohesionAlliance is a coalition of those who believe that EU cohesion policy must continue to be a pillar of the EU's future. The Alliance was created through cooperation between the leading European associations of cities and regions and the European Committee of the Regions. It demands that the EU budget after 2020 makes cohesion policy stronger, more effective, visible and available for every region in the European Union. 
  
 From national, regional and local governments to SMEs, NGOs, schools, universities, cultural organisations, anyone who believes in EU cohesion policy is welcome to join the #CohesionAlliance.
 
-For more information visit the official website of [Cohesion Alliance](https://cor.europa.eu/en/engage/Pages/cohesion-alliance.aspx){:target="_blank"}.
+For more information visit the official website of [Cohesion Alliance](https://cor.europa.eu/en/engage/Pages/cohesion-alliance.aspx).
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank"}.
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
