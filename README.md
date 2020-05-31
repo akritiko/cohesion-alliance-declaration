@@ -4,7 +4,7 @@
 
 APOSTOLOS KRITIKOS
 
-_(answering the call of the #CohesionAlliance partner organisations for a public consultation on the new Cohesion Alliance declaration)_
+_(answering the call of the #CohesionAlliance partner organisations for a public consultation on the new Cohesion Alliance declaration published on May 9th, 2020)_
 
 ## Introduction
 
