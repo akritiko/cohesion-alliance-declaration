@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/268235442.svg)](https://zenodo.org/badge/latestdoi/268235442)
 
-# Darft declaration of the Cohesion Alliance for a cohesive, sustainable & resilient Europe ー Thoughts & Comments
+# Draft declaration of the Cohesion Alliance for a cohesive, sustainable & resilient Europe ー Thoughts & Comments
 
 ## Introduction
 
