@@ -16,7 +16,11 @@ In this document you will find a set of personal thoughts and comments for the n
 
 You can find the full version of the document in markdown format [here](https://github.com/akritiko/cohesion-alliance-declaration/blob/master/CohesionAlliance%20Declaration%20Draft%20(2020)%20-%20Thoughts%20%26%20Suggestions.md) along with .odt, .pdf and .txt versions in this repository.
 
-## What is Cohesion Alliance?
+[Show your support, sign the declaration](http://cohesionalliance.eu)
+
+## Information about the Cohesion Alliance Declaration
+
+### What is Cohesion Alliance?
 
 Economic, social and territorial cohesion is at the heart of the European project. And cohesion policy represents a huge investment, involving all EU regions, together with thousands of stakeholders and beneficiaries, to deliver a shared growth strategy.
 
@@ -28,7 +32,7 @@ This is a policy which delivers today, in tackling challenges ranging from migra
 
 The Alliance has been created through cooperation between the leading territorial associations and the European Committee of the Regions, where like-minded regional and local politicians from across Europe joined forces in favour of a strong cohesion policy in the future. As the politicians elected closest to the people, we want cohesion to be even stronger, more effective and more visible in the future. Together we want to show the crucial role of EU Cohesion Policy and ensure that the next EU budget provide adequate resources to make it stronger, more effective and visible.  All beneficiaries and supporters, all those who share the core values of this policy, from national governments to rural communities, from regional and local authorities to SMEs associations, NGOs, schools, universities, cultural organizations, are welcome to join the Alliance by signing up this Declaration.
 
-## Cohesion Policy = Europe Integration
+### Cohesion Policy = Europe Integration
 
 Currently worth one third of the EU budget, the EU's cohesion policy reduces regional disparities, creates jobs, opens new business opportunities and addresses major global issues such as climate change and migration.
 
@@ -38,7 +42,7 @@ The #CohesionAlliance is a coalition of those who believe that EU cohesion polic
  
 From national, regional and local governments to SMEs, NGOs, schools, universities, cultural organisations, anyone who believes in EU cohesion policy is welcome to join the #CohesionAlliance.
 
-[SHOW YOUR SUPPORT, SIGN THE DECLARATION](http://cohesionalliance.eu)
+For more information visit the official website of [Cohesion Alliance](https://cor.europa.eu/en/engage/Pages/cohesion-alliance.aspx).
 
 ## License
 
