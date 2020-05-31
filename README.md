@@ -2,6 +2,8 @@
 
 # Draft declaration of the Cohesion Alliance for a cohesive, sustainable & resilient Europe ー Thoughts & Comments
 
+APOSTOLOS KRITIKOS, MSc.
+
 ## Introduction
 
 The COVID-19 pandemic has shown us how important and necessary, at the same time, it is to strive for unity and cohesion across the member states of the European Union, if not the world. It also made clear that, in times of crises, lack of strategic planning, policies, processes and infrastructure can be really dangerous and may take a toll on the lives of people.
