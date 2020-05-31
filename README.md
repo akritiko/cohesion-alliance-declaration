@@ -4,6 +4,8 @@
 
 APOSTOLOS KRITIKOS
 
+_(answering the call of the #CohesionAlliance partner organisations for a public consultation on the new Cohesion Alliance declaration)_
+
 ## Introduction
 
 The COVID-19 pandemic has shown us how important and necessary, at the same time, it is to strive for unity and cohesion across the member states of the European Union, if not the world. It also made clear that, in times of crises, lack of strategic planning, policies, processes and infrastructure can be really dangerous and may take a toll on the lives of people.
