@@ -2,7 +2,7 @@
 
 # Draft declaration of the Cohesion Alliance for a cohesive, sustainable & resilient Europe ー Thoughts & Comments
 
-by APOSTOLOS KRITIKOS
+APOSTOLOS KRITIKOS
 
 ## Introduction
 
