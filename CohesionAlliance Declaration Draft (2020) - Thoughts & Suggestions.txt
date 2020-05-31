@@ -1,45 +1,33 @@
-﻿DRAFT DECLARATION OF THE #COHESIONALLIANCE FOR A COHESIVE, SUSTAINABLE & RESILIENT EUROPE 
-
-
-         
 DRAFT DECLARATION OF THE #COHESIONALLIANCE FOR A COHESIVE, SUSTAINABLE & RESILIENT EUROPE 
 ー THOUGHTS & COMMENTS
-
-
-
-
-
-
 
 
 APOSTOLOS KRITIKOS, MSc.
 Researcher. Faculty of Informatics, Aristotle University of Thessaloniki
 Chief Technology Officer, Social Mind - Digital Marketing Agency
 
-
-
-
-
-
-
-
-
-
-
-
-
-E-mail: akritiko@csd.auth.gr | Cell phone: +30 6976 432 234 | Skype: akritiko
 ________________
+
+
 1. INTRODUCTION
-The COVID-19 pandemic has shown us how important and necessary, at the same time, it is to strive for unity and cohesion across the member states of the European Union, if not the world. It also made clear that, in times of crises, lack of strategic planning, policies, processes and infrastructure can be really dangerous and may take a toll on the lives of people.  
+
+The COVID-19 pandemic has shown us how important and necessary, at the same time, it is to strive for unity and cohesion across the member states of the European Union, if not the world. It also made clear that, in times of crises, lack of strategic planning, policies, processes and infrastructure can be really dangerous and may take a toll on the lives of people. 
+ 
 Crises, in the scale of the one we are facing right now, are inarguably difficult to predict and, thus, we are left with no option but doing the best we can to deal with the situation at hand. It is necessary, however, to create mechanisms that will learn not only from the current one, but future crises as well and help us adapt.
+
 In this document you will find a set of personal thoughts and comments for the new draft of the  Cohesion Alliance Declaration after carefully reading both the current [1] and the proposed draft of the new version [2]. The document is structured as follows: In Section 2 thoughts and comments are being analyzed. In Section 3 we sum up our thoughts, as a conclusion. In Section 4 there are information about the license of this document, allowing everyone to reuse and remix it per the terms of an open Creative Common license. Finally, in Section 5 we present the references used in this document.
+
 DISCLAIMER: Opinions are my own and do not reflect neither the Aristotle University of Thessaloniki, where I have the honor to serve as a researcher, nor my company, Social Mind.
+
 2. THOUGHTS & COMMENTS
+
 2.1. From the concept of cohesion to the triplet: cohesion - sustainability - resilience.
 The draft for the Cohesion Alliance Declaration is clearly influenced by the new challenges that we anticipate to face in the post COVID-19 era. This is indeed the right approach. However, while the current declaration has as its main mission the cohesion of the European Union, in the draft declaration the concepts of sustainability and resilience are being added. While all three concepts are very important for the longevity and eudaimonia of the European Union, we need to make sure that the resources and funding granted to the Cohesion Alliance, will be sufficient to effectively deal with this newly introduced triplet of goals.
+
 2.2. From specific goals to crisis management. 
+
 In the introduction of the current version of the declaration the reader can find a clear definition of the scope of cohesion - which should happen on an (1) economic, (2) social and (3) territorial level -. It is also clear that cohesion policy will create added value in the following aspects: 
+
 1. Creating jobs.
 2. Sustainable growth. 
 3. Modern infrastructure.
@@ -49,40 +37,70 @@ In the introduction of the current version of the declaration the reader can fin
 7. Enabling cooperation between regions. 
 8. Cities and municipalities from different member states.
 9. Enabling cooperation with the private sector, knowledge institutions and social partners at regional level. 
+
 The aforementioned points are no longer part of the introduction of the declaration in the new version. There are references to some of them but not in the detail they are being explained in the current version of the declaration. Instead, in the draft of the new declaration, most of the part of the introduction is used to stress the need of dealing with the challenges of the post-pandemic era, but in a more generic and theoretical way.
+
 In my honest opinion most of the aforementioned points in the current declaration are highly connected with the challenges the European Union regions are going to face, in the post COVID-19 era. Problems, for example, like unemployment, lack of growth, the need for robust infrastructure, the need for human capital boost, and so forth. That is why I would like to propose that both the definition of cohesion and the added value points should be reinstated in the new version of the declaration and, at the same time, try and effectively map them with the concepts of cohesion, sustainability and resilience.
 2.3. “Digital Transformation First” approach.
+
 From the first months that the COVID-19 pandemic started unfolding, it became clear that technology:
 1. Would be the key to help us communicate and socialize while in lockdown.
+
 2. Would help us stay informed on the latest updates on an international, national, regional and municipal level.
+
 3. Would allow companies to continue to be operational by working remotely.
+
 4. Would help people that were psychologically affected by the lockdown to seek professional help via video calls. 
+
 5. Would enable groups of experts to come together to work on solutions regarding the pandemic (i.e. EUvsVirus [3] Hackathon organized by the European Commission).
+
 6. Would help charities and organizations to fundraise for their causes.
+
 Although there is provision for the digital transformation of the member states on a national level by the EU, I would suggest that digital transformation will be put on the center of the Cohesion Alliance declaration as well. Technology and, more specifically, the Internet has been the medium that managed to bring the EU citizens closer than ever by introducing us to the different places, cultures, problems, solutions, wins and failures of all the people around the world [4]. It is, therefore, imperative that the Internet would be put first on a cohesion related policy.
+
 2.5. Transparency and preservation of privacy via Open Source Software Solutions.
+
 A huge concern that arose after COVID19 was the privacy violations by digital applications and software related to COVID19, for example, contact tracing applications. 
+
 It is necessary to try and secure transparency for the citizens of the EU when it comes to applications that gain access to their digital footprint, that is, data they make available online. Open Source Software design is one of the best ways to achieve transparency while, at the same time, we are giving the opportunity to the development community online to provide help to rapidly evolve and maintain the systems under development. 
+
 The European Commission has already set an Open Source Strategy [5] to promote and enhance the creation and the use of Open Source Software across the EU.
+
 2.5. Tend upon other important goals.
+
 In the current budgeting related to the Cohesion Alliance’s mission there is provision for environmental issues, inclusion, support of smart cities and so forth. Those aspects should continue to be priorities for the Cohesion Alliance alongside the challenges of the post COVID-19 pandemic. 
+
 2.6. From resilience to antifragility.
+
 It might be early for this suggestion but I feel the obligation to make a comment on the concept of antifragility over resilience. 
+
 Although resilience is a very well chosen concept to be included in the new version of the Cohesion Alliance’s declaration, we, as the EU, should start considering shifting our policies, resources and planning to antifragility. 
+
 Prof. Nassim Nicholas Taleb’s defines antifragility [6] as “a property of systems that increase in capability to thrive as a result of stressors, shocks, volatility, noise, mistakes, faults, attacks, or failures”. 
+
 Whereas resilience is a property of a system (say EU) to survive a certain crisis (say COVID-19), an antifragile system would be able to learn from the crisis and adapt in order to be better prepared for a similar stressor in the future.
+
 3. DISCUSSION
+
 I am honored and humbled to have been given the opportunity to share my thoughts with the Cohesion Alliance on such an important and delicate matter. I hope that my comments can be helpful for the greater good.
+
 In the words of Hippocrates, the great Greek physician of the Age of Pericles: 
+
 “As to diseases, make a habit of two things
 — to help, or at least, to do no harm.”
+
 Indeed the new coronavirus, being an unknown disease, made lots of the medical scientists world wide to be unable to effectively provide help for their patients. Through cohesion though, the EU can harness the mental power of an unlimited resource that is the experts across its member states. 
+
 With this kind of power there may be hope that the EU can increase its robustness, cultivate its resilience and head towards antifragility in the years to come. Sad as it may be it is in times of crises we value the true benefits of cohesion, coworking and co-creation of solutions. Solutions that may be able to change the world.
+
 4. LICENSE
+
  Creative Commons License 
 
 This work, attributed to Apostolos Kritikos is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Feel free to reuse and remix respecting the terms of the license.
+
 5. REFERENCES
+
 [1] #CohesionAlliance for a strong EU cohesion policy beyond 2020 [online]
 [2] Draft Declaration of the #CohesionAlliance for a cohesive, sustainable and resilient Europe [online]
 [3] EUvsVirus Hackathon [online]
@@ -90,12 +108,3 @@ This work, attributed to Apostolos Kritikos is licensed under a Creative Commons
 [5] Open Source Software strategy by the European Commission [online]
 [6] Antifragility, Nassim Nicholas Taleb [online]
 
-
-
-
-
-
-
-
-APOSTOLOS KRITIKOS, MSc. 
-Licensed under: CC-BY-SA 4.0 INTERNATIONAL
