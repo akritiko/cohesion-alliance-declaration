@@ -17,7 +17,9 @@ In this document you will find a set of personal thoughts and comments for the n
 DISCLAIMER: Opinions are my own and do not reflect neither the Aristotle University of Thessaloniki, where I have the honor to serve as a researcher, nor my company, Social Mind.
 
 [Full document available here](https://github.com/akritiko/cohesion-alliance-declaration/blob/master/CohesionAlliance%20Declaration%20Draft%20(2020)%20-%20Thoughts%20%26%20Suggestions.md).
+
 [Show your support, sign the declaration](http://cohesionalliance.eu)
+
 ## Information about the Cohesion Alliance Declaration
 
 ### What is Cohesion Alliance?
